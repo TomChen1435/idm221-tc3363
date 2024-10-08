@@ -1,6 +1,6 @@
 # Content for IDM 221 Project 
 
-(Site Map) [https://lucid.app/lucidchart/322f5d4e-8b68-472d-bf16-ed1861c9a04c/edit?invitationId=inv_40fa23d0-714e-4de9-a87b-499399f22fbe\&page=0_0#] 
+[Site Map] (https://lucid.app/lucidchart/322f5d4e-8b68-472d-bf16-ed1861c9a04c/edit?invitationId=inv_40fa23d0-714e-4de9-a87b-499399f22fbe\&page=0_0#) 
 
 # Home 
 
@@ -8,19 +8,25 @@ Hello! My name is Tom Chen.
 I am a second-year student at Drexel University in Philadelphia, PA,   
 Majoring in User Experience and Interaction Design (UXID). 
 
-# Case 1: UI Design Project 
+# UI Design Project 
 
 ## SEPTA Website Redesign
 
 The final project for my UI Design class is to redesign five pages of a website for mobile, tablet, and desktop devices. For years, I have been a consistent advocate to promote public transit. Therefore, I anchored my topic for this project on redesigning the website of SEPTA (Southeastern Pennsylvania Transportation Authority, the main transit operator in the Philadelphia metro area). 
 
-# Case 2: Interaction Design Project 
+# Interaction Design Project 
 
 ## Amtrak Mobile App Redesign 
 
 The final project for my Interaction Design class is to redesign a mobile app with transitions and interactions between different pages. For the same reason as why I chose the topic for my UI Design project, I decided to redesign Amtrak’s mobile app with the fictional brand of “Continental Railroad.” 
 
 # Related Coursework 
+
+## Design for Media 
+
+### Design for Media I: Black & White 
+
+### Design for Media II: Color Theories 
 
 ## Photography 
 
@@ -40,19 +46,27 @@ The bland life in the adolescent years definitively shaped my patterns of thinki
 
 Up till this day, photography remains to be one of my sources of happiness. My camera is another pair of eyes capturing the astonishing moments of my life. Just like a diary, the emotions engraved within the photographs are timeless. I know I won’t be regretting when the pictures bring me back to those gems in my memory once again many years later. 
 
-### June 2024: Chicago 
+### Philadelphia 
+
+### New York 
+
+### Trips in the United States 
+
+#### June 2024: Chicago 
 
 People call the Windy City “**the** museum of modern architecture” for a reason. 
 
-### August 2024: Hong Kong 
+### Trips Abroad 
+
+#### August 2024: Hong Kong 
 
 As a place that everyone has heard of at least once in their life, Hong Kong means a lot to me personally. It is the perfect mixture of rich history and inspiring modernity. Things had happened to this jewel of the Far East. Yet, my love for this city is never wavering. 
 
-### August 2024: Macau 
+#### August 2024: Macau 
 
 Macau is a town that shouts the word “personality” when you get the chance to visit it. It is a place of contradictions \- tiny city with unbelievably high population density, well-worn ancient alleys leading towards grandiose casinos, narrow streets with blazingly fast traffic speed. 
 
-### March 2024: Ottawa 
+#### March 2024: Ottawa 
 
 Being the capital city of Canada, Ottawa deserves but never received the same level of attention as other major cities in the country, no matter if you are now thinking about Toronto, Montreal, or Vancouver. The trip to this small town on some freezingly cold early-spring days was both adventurous and full of surprises \- I was surprised with how well the Ottawan people managed to coexist with the marvelous nature. 
 
@@ -74,6 +88,22 @@ Another portion that affected my mindset was Krug’s explanation about navigati
 In conclusion, I greatly enjoyed this book and believe it is well-written. Krug’s writing style is easy to comprehend, just like the principle of conciseness he mentioned in Chapter 5\. It never felt to me that I was reading sophisticated professional instructions or being struck with obscure terms. Instead, it felt like I was talking with the author without the awkwardness of stuttering. The frequent use of images also improved my reading experience to some extent. They provided buffer zones so that I was never overwhelmed with overloaded textual content. Briefly said, this was one of my best reading experiences recently. 
 
 ### Film Analysis 
+
+#### 2001: A Space Odyssey 
+
+I saw the movie “2001: A Space Odyssey” online on the television at my aunt’s house. It was free to watch on a streaming service called “Tubi TV.” I watched the montage on Blackboard before watching the film. Along with the title, my first impression of the movie was that it was science-fiction and would involve a lot of strong contrasts between pure black and multiple high-key values, as most of the scenes would correlate to the idea of space traveling. 
+
+The story of “2001: A Space Odyssey” begins with the orangutans living on ancient Earth. They obtained a higher level of wisdom from an alien. A long time passed before the moon landing project discovered a similar monolith that emitted a signal to Jupiter. To find the signal’s destination, a spaceship was sent to Jupiter, equipped with “HAL 9000,” an advanced computer similar to today’s artificial intelligence. The machine caused an incident and killed all astronauts except Dave. He then entered an unknown space and witnessed his entire life. To me, the best and worst parts are the ending of the film. It is an open ending, leaving plenty of imagination for the viewers but also making people confused. 
+
+In this essay, I will be focusing on a scene after Dave enters “Jupiter and Beyond the Infinite” at 2:02:10 of the film. The scene is composed of a great number of high-key radial thin lines originating from the center of the low-key background. There are also multiple ellipse-like curves circling the center where the lines intersect with one another. 
+
+Actual lines are clearly the emphasis of this scene. Both rectilinear and curvilinear lines are well-represented in this scene. Although none of them are artificially generated, they look more geometric instead of organic. They are composed dynamically as most straight lines are slanted, which makes sense as this scene is made to demonstrate Dave passing through a long distance at a massive speed. Meanwhile, there are a great many shapes enclosed by the intersecting lines. However, even though most of the shapes are triangles and trapezoids, there is no visible motif or pattern in the image. 
+
+It is a partially one-point perspective image, and all of the rectilinear lines converge to the focal point at the center. Therefore, the image is also highly radial symmetrical with a great sense of balance, as the lines are fairly evenly distributed across the image. As mentioned earlier, this scene includes a strong contrast between the high-key rays and the pitch-black background. As a result, it would provide the viewers with a feeling of traveling into the unknown and let them resonate with the character. 
+    
+I repeatedly saw the visual concepts of contrast, symmetry, and space. The movie creates its space-traveling visual style by implementing strong contrasts between the high-key objects in the foreground and the blackness in the background. One overall effect is that the audience can easily emerge with an excitement of discovery. Personally, I am inspired by this visual style: I always feared that the high contrast would disturb the balance within the image, but “2001: A Space Odyssey” proved that my worries were unnecessary. I may try to include it in some of my future works. 
+
+Analyzing a film is different from critiquing a two-dimensional work of art, primarily because there are too many scenes to choose from. That is, the process of analyzing a film is equivalent to that of comprehending a series of 2D works that build upon each other. It is not easy because each frame has its own function in telling the story – I must not analyze the scenes without the context of the film’s plot. The biggest surprise I had after watching the entire film was that I finally understood the definition of “timelessness.” 2001: A Space Odyssey was launched in 1968, but the visual effects and implied inspirations feel much more modern. It is truly a classic that deserves more praise and recommendations. 
 
 #### Under the Sun 
 
