@@ -64,7 +64,7 @@ As a place that everyone has heard of at least once in their life, Hong Kong mea
 
 #### August 2024: Macau 
 
-Macau is a town that shouts the word “personality” when you get the chance to visit it. It is a place of contradictions \- tiny city with unbelievably high population density, well-worn ancient alleys leading towards grandiose casinos, narrow streets with blazingly fast traffic speed. 
+Macau is a town that shouts the word “personality” when you get the chance to visit it. It is a place of contradictions - tiny city with unbelievably high population density, well-worn ancient alleys leading towards grandiose casinos, narrow streets with blazingly fast traffic speed. 
 
 #### March 2024: Ottawa 
 
@@ -85,7 +85,7 @@ I was profoundly inspired by the portion “Make it obvious what’s clickable�
 The “Wild West” part of the timeline from 1997 to 2002 notified me of my lack of consideration. I forgot to unify the style of my buttons – each clickable component had a drastically different appearance. Mimicking the style of clickable text in the examples of “The Golden Age,” I reduced the types of buttons in my prototype to four and dedicated one typeface for all clickable components. The web page looked significantly neater after I followed this important rule.   
 Another portion that affected my mindset was Krug’s explanation about navigation, where I found a second flaw in my prototype: not all pages straightforwardly informed the user where they were. I soon fixed the issue and made improvements with other suggestions Krug offered in this chapter. For instance, the site logo is now interactive and can bring the user directly back to the homepage, which is intuitive but mistakenly ignored previously. 
 
-In conclusion, I greatly enjoyed this book and believe it is well-written. Krug’s writing style is easy to comprehend, just like the principle of conciseness he mentioned in Chapter 5\. It never felt to me that I was reading sophisticated professional instructions or being struck with obscure terms. Instead, it felt like I was talking with the author without the awkwardness of stuttering. The frequent use of images also improved my reading experience to some extent. They provided buffer zones so that I was never overwhelmed with overloaded textual content. Briefly said, this was one of my best reading experiences recently. 
+In conclusion, I greatly enjoyed this book and believe it is well-written. Krug’s writing style is easy to comprehend, just like the principle of conciseness he mentioned in Chapter 5. It never felt to me that I was reading sophisticated professional instructions or being struck with obscure terms. Instead, it felt like I was talking with the author without the awkwardness of stuttering. The frequent use of images also improved my reading experience to some extent. They provided buffer zones so that I was never overwhelmed with overloaded textual content. Briefly said, this was one of my best reading experiences recently. 
 
 ### Film Analysis 
 
@@ -125,7 +125,7 @@ Alongside the projects for User Interface Design and Interaction Design, I am al
 
 ### Philadelphia Metro Area Rail Map 
 
-Being a Philadelphian, I always have conflicted thoughts and emotions for my native transit systems. It needs so many past-due updates and improvements to catch up with the rest of the world, but from the North American point of view, Philly is the “rail city” of the United States \- it has enough but not too much density with great backbones for all modes of rail public transit, from trolleys, light rails, subways, to regional commuter rails. 
+Being a Philadelphian, I always have conflicted thoughts and emotions for my native transit systems. It needs so many past-due updates and improvements to catch up with the rest of the world, but from the North American point of view, Philly is the “rail city” of the United States it has enough but not too much density with great backbones for all modes of rail public transit, from trolleys, light rails, subways, to regional commuter rails. 
 
 ### Washington-Baltimore Metro Area Map 
 
