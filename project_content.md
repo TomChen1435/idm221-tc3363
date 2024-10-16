@@ -2,6 +2,8 @@
 
 [Site Map] (https://lucid.app/lucidchart/322f5d4e-8b68-472d-bf16-ed1861c9a04c/edit?invitationId=inv_40fa23d0-714e-4de9-a87b-499399f22fbe\&page=0_0#) 
 
+[Wireframes] (https://www.figma.com/design/qFKNNQQg5hXG4j5zDS8ZCS/IDM-221-001-tc3363_01-Wireframes?node-id=85-80&t=ObRBDAjrAJxk4q1F-1) 
+
 # Home 
 
 Hello! My name is Tom Chen. 
