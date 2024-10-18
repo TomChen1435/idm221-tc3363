@@ -6,9 +6,7 @@
 
 # Home 
 
-Hello! My name is Tom Chen. 
-I am a second-year student at Drexel University in Philadelphia, PA, 
-Majoring in User Experience and Interaction Design (UXID). 
+
 
 # UI Design Project 
 
