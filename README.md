@@ -5,6 +5,7 @@ Tom Chen's Repository for IDM 221 Project
 ## Portfolio Structure 
 
 - Home 
+    - What's New 
     - UI Design Project 
     - Interaction Design Project 
     - Related Course Work 
