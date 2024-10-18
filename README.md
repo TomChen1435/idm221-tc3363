@@ -45,6 +45,7 @@ Tom Chen's Repository for IDM 221 Project
         - Phone number for texting only 
         - School email / personal email 
         - LinkedIn 
+        - GitHub 
         - WhatsApp 
         - Discord 
         - Instagram 
