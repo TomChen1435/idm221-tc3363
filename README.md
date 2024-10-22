@@ -23,7 +23,9 @@ Tom Chen's Repository for IDM 221 Project
             - [Phase 2] Philadelphia Diary 
             - [Phase 2] New York Diary 
             - Trips in the United States 
+                - [Phase 2] December 2024: San Diego 
                 - June 2024: Chicago 
+                - [Phase 2] December 2023: San Francisco 
             - Trips Abroad 
                 - August 2024: Macau 
                 - August 2024: Hong Kong  
@@ -40,13 +42,11 @@ Tom Chen's Repository for IDM 221 Project
             - New York Metro Area Commuter Rail Map 
     - Resume 
         - "Download" button 
-        - "View on a Different Tab" button 
         - Resume display 
     - Contact Information 
-        - Phone number for texting only 
-        - School email / personal email 
+        - Phone number 
+        - School email
         - LinkedIn 
         - GitHub 
-        - WhatsApp 
         - Discord 
         - Instagram 
