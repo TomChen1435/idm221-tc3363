@@ -19,13 +19,13 @@ Tom Chen's Repository for IDM 221 Project
         - Photography 
             - Introduction to Photography: Black & White  
     - Blog 
-        - Photography: Combination of City and Nature Landscapes 
-            - [Phase 2] Philadelphia Diary 
-            - [Phase 2] New York Diary 
+        - [Phase 2] Photography: Combination of City and Nature Landscapes 
+            - Philadelphia Diary 
+            - New York Diary 
             - Trips in the United States 
-                - [Phase 2] December 2024: San Diego 
+                - December 2024: San Diego 
                 - June 2024: Chicago 
-                - [Phase 2] December 2023: San Francisco 
+                - December 2023: San Francisco 
             - Trips Abroad 
                 - August 2024: Macau 
                 - August 2024: Hong Kong  
@@ -36,7 +36,7 @@ Tom Chen's Repository for IDM 221 Project
             - Film Analysis 
                 - 2001: A Space Odyssey (Design for Media I)
                 - Under the Sun (Design for Media II) 
-        - Transit Diagram Designs 
+        - [Phase 2] Transit Diagram Designs 
             - Philadelphia Metro Area Rail Map 
             - Washington-Baltimore Metro Area Rail Map 
             - New York Metro Area Commuter Rail Map 
