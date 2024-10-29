@@ -1,0 +1,43 @@
+# Directories 
+
+/private
+
+# Media files
+*.png
+*.gif
+*.ico
+*.svg
+*.webp
+*.bmp
+*.tiff
+*.psd
+*.ai
+*.eps
+
+# Video files
+*.mp4
+*.webm
+*.ogg
+*.mov
+*.avi
+*.wmv
+*.flv
+*.mkv
+*.m4v
+
+# Audio files
+*.mp3
+*.wav
+*.aac
+*.m4a
+*.wma
+*.flac
+
+# Document files
+*.pdf
+*.doc
+*.docx
+*.xls
+*.xlsx
+*.ppt
+*.pptx
