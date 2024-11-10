@@ -6,38 +6,37 @@ Tom Chen's Repository for IDM 221 Project
 
 - Home 
     - Project Gallery 
-        - IDM-211+212: UI Design 
-        - IDM-213: Interaction Design  
-        - INFO-110: Introduction to HCI 
-        - PROD-215: Design Thinking 
-        - WEST-107: Maker Workshop 
     - Blog 
-        - Related Course Work 
+        - Related Coursework 
+        - Photography
+        - Other Designs 
+    - Resume 
+    - Contact Information 
+
+## Planned Goals 
+
+### Phase 1: Final Submission 
+
+- Home 
+    - Project Gallery 
+        - SEPTA Website Redesign
+        - Amtrak Mobile App Redesign 
+    - Blog 
+        - Related Coursework 
             - VSST-108: Design for Media I: Black & White 
                 - Film Analysis: 2001: A Space Odyssey 
             - VSST-109: Design for Media II: Color Theory 
                 - Film Analysis: Under the Sun 
-            - VSST-110: Introductory Drawing 
-                - Pencil Drawing 
-                - Charcoal Drawing  
             - PHTO-110: Introduction to Photography: Black & White 
             - UNIV-A101 
                 - Book Review: Don't Make Me Think 
-        - [Phase 2] Photography 
-            - Philadelphia Diary 
-            - New York Diary 
+        - Photography 
             - Trips in the United States 
-                - December 2024: San Diego 
                 - June 2024: Chicago 
-                - December 2023: San Francisco 
             - Trips Abroad 
                 - August 2024: Macau 
                 - August 2024: Hong Kong  
                 - March 2024: Ottawa 
-        - [Phase 2] Transit Diagram Designs 
-            - Philadelphia Metro Area Rail Map 
-            - Washington-Baltimore Metro Area Rail Map 
-            - New York Metro Area Commuter Rail Map 
     - Resume 
         - "Download" button 
         - Resume display 
@@ -48,3 +47,25 @@ Tom Chen's Repository for IDM 221 Project
         - GitHub 
         - Discord 
         - Instagram 
+
+### Phase 2: Winter Break 
+
+- Home 
+    - Project Gallery 
+        - Projects from PROD-215: Design Thinking 
+        - Monopoly 4 Text-based Game in Python 
+    - Blog 
+        - Related Course Work 
+            - VSST-110: Introductory Drawing 
+                - Pencil Drawing 
+                - Charcoal Drawing  
+        - Photography 
+            - Philadelphia Diary 
+            - New York Diary 
+            - Trips in the United States 
+                - December 2024: San Diego 
+                - December 2023: San Francisco 
+        - Transit Diagram Designs 
+            - Philadelphia Metro Area Rail Map 
+            - Washington-Baltimore Metro Area Rail Map 
+            - New York Metro Area Commuter Rail Map 
