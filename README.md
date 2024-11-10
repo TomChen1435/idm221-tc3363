@@ -31,11 +31,10 @@ Tom Chen's Repository for IDM 221 Project
             - UNIV-A101 
                 - Book Review: Don't Make Me Think 
         - Photography 
-            - Trips in the United States 
-                - June 2024: Chicago 
-            - Trips Abroad 
+            - Trips 
                 - August 2024: Macau 
                 - August 2024: Hong Kong  
+                - June 2024: Chicago 
                 - March 2024: Ottawa 
     - Resume 
         - "Download" button 
@@ -62,7 +61,7 @@ Tom Chen's Repository for IDM 221 Project
         - Photography 
             - Philadelphia Diary 
             - New York Diary 
-            - Trips in the United States 
+            - Trips 
                 - December 2024: San Diego 
                 - December 2023: San Francisco 
         - Transit Diagram Designs 
