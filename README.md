@@ -30,12 +30,6 @@ Tom Chen's Repository for IDM 221 Project
             - PHTO-110: Introduction to Photography: Black & White 
             - UNIV-A101 
                 - Book Review: Don't Make Me Think 
-        - Photography 
-            - Trips 
-                - August 2024: Macau 
-                - August 2024: Hong Kong  
-                - June 2024: Chicago 
-                - March 2024: Ottawa 
     - Resume 
         - "Download" button 
         - Resume display 
@@ -58,12 +52,17 @@ Tom Chen's Repository for IDM 221 Project
             - VSST-110: Introductory Drawing 
                 - Pencil Drawing 
                 - Charcoal Drawing  
-        - Photography 
+        - Photography
+            - Travel Diary 
+                - December 2024: San Diego 
+                - August 2024: Macau 
+                - August 2024: Hong Kong  
+                - June 2024: Chicago 
+                - March 2024: Ottawa 
+                - December 2023: San Francisco
             - Philadelphia Diary 
             - New York Diary 
-            - Trips 
-                - December 2024: San Diego 
-                - December 2023: San Francisco 
+
         - Transit Diagram Designs 
             - Philadelphia Metro Area Rail Map 
             - Washington-Baltimore Metro Area Rail Map 
