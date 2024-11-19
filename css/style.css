@@ -2,7 +2,129 @@
     box-sizing: border-box;
 }
 
-p {
+/* 
+I use Frutiger and Helvetica Neue in this website. 
+Frutiger will be used as titles only. 
+*/
+
+@font-face {
+    font-family: 'frutiger';
+    src: url(/public_media/other_files/typefaces/Frutiger.woff2) 
+        format('woff2');
+    font-weight: bold;
+    font-style: normal;
+    font-display: fallback;
+}
+
+@font-face {
+    font-family: 'helvetica-neue';
+    src: url(/public_media/other_files/typefaces/HelveticaNeue.ttf) 
+        format('truetype');
+    font-weight: normal, medium, bold;
+    font-style: normal;
+    font-display: fallback;
+}
+
+:root {
+    --color-background: #fafafa;
+    --color-regular: #1c1c1c; 
+    --emphasized-white: #fff;
+    --emphasized-black: #000; 
+
+    --green: #009a01;
+    --teal: #0e6027;
+    --red-violet: #d1009a;
+    --red-orange: #ff6600;
+
+    --font-regular: HelveticaNeue, Helvetica, sans-serif; 
+    --font-emphasized: 'frutiger', var(--font-regular);
+
+    --border-radius: 0.75rem;
+    --button-side: 2.5rem; 
+    --gap-small: 0.5rem; 
+    --gap-medium: 1rem;
+    --gap-large: 2rem;
+    --header-height: 4rem;
+    --content-max-width: calc(100vw-2rem); 
+    --tile-height: 56.25vw;
+}
+
+a, p {
     font-size: 1rem;
+    font-family: var(--font-regular);
+    font-weight: normal;
+    text-decoration: none;
     text-wrap: pretty; 
+}
+
+h1 {
+    font-size: 2rem;
+    font-family: var(--font-emphasized);
+    
+}
+
+a.regular:link {color: #007aff;}
+a.regular:visited {color: #af52de;}
+a.regular:hover {color: #5856d6;}
+a.regular:active {color: #ff2d55;}
+
+header {
+    height: 4rem;
+    background-color: var(--teal);
+    padding: 0.75rem var(--gap-medium);
+}
+
+p.header {
+    color: var(--emphasized-white);
+    font-size: 1.5rem;
+    line-height: var(--button-side);
+}
+
+div.introduction {
+    background-color: var(--green);
+    border-radius: var(--border-radius);
+    padding: var(--gap-medium);
+    margin: var(--gap-medium);
+}
+
+div.introduction > p {
+    color: var(--emphasized-white);
+    margin: var(--gap-small) 0;
+    text-align: center;
+}
+
+div.introduction > p.name {
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+div.introduction > p.primary {
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+div.introduction >p.secondary {
+    font-size: 1.25rem;
+    font-weight: medium;
+}
+
+footer {
+    background-color: var(--teal); 
+    padding: var(--gap-medium);
+}
+
+footer > div.button {
+    height: var(--button-side);
+    width: var(--content-max-width);
+}
+
+footer > div.button > a {
+    font-size: 1.25rem;
+    font-weight: medium;
+    text-align: center;
+    color: var(--emphasized-white);
+    background-color: var(--red-orange);
+    padding: 0.5rem;
+    margin: var(--gap-medium) 0;
+    border-radius: var(--border-radius);
 }

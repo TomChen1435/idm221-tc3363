@@ -4,28 +4,63 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Home</title>
+    <link rel="stylesheet" href="/css/normalize.css" />
+    <link rel="stylesheet" href="/css/style.css" />
 </head>
 <body>
 
     <header>
         <p class="header">Tom Chen's Portfolio</p>
-        <!--insert the hamburger menu icon here-->
+        <label for="menu" class="menu-icon">
+            <span class="menu-icon"></span>
+            <span class="menu-icon"></span>
+            <span class="menu-icon"></span>
+        </label>
     </header>
 
-    Hello! My name is 
-    Tom Chen
-    I am a second-year student
-    at Drexel University
-    in Philadelphia, PA, United States
-    majoring in 
-    User Experience and Interaction Design 
-    (UXID)
+    <div class="introduction">
+        <p class="secondary">Hello! My name is</p>
+        <p class="name">Tom Chen</p>
+        <p class="secondary">I am a second-year student</p>
+        <p class="secondary">at Drexel University</p>
+        <p class="secondary">in Philadelphia, PA, United States</p>
+        <p class="secondary">majoring in</p>
+        <p class="primary">User Experience</p>
+        <p class="primary">and Interaction Design</p>
+    </div>
+
+    <main>
+
+        <h1>Check My Works</h1>
+
+        <div class="tile">
+            <a href="/html/project_gallery/septa_website_redesign.html">SEPTA Website Recreation</a>
+        </div>
+
+        <div class="tile">
+            <a href="/html/project_gallery/amtrak_mobile_app_redesign.html">Amtrak Mobile App Redesign</a>
+        </div>
+
+        <div class="tile">
+            <a href="/html/blog/related_coursework/related_coursework.html">Coursework Blog</a>
+        </div>
+
+    </main>
 
     <footer>
-        <a href="/html/project_gallery/project_gallery.html" class="long_button">Project Gallery</a>
-        <a href="/html/blog/related_coursework/related_coursework.html" class="long_button">Related Coursework</a>
-        <a href="/html/resume.html" class="long_button">Resume</a>
-        <a href="/html/contact_information.html" class="long_button">Contact Information</a>
+        <div class="button">
+            <a href="/html/project_gallery/project_gallery.html">Project Gallery</a>
+        </div>
+        <div class="button">
+            <a href="/html/blog/related_coursework/related_coursework.html">Related Coursework</a>
+        </div>
+        <div class="button">
+            <a href="/html/resume.html">Resume</a>
+        </div>
+
+        <div class="button">
+            <a href="/html/contact_information.html">Contact Information</a>
+        </div>
     </footer>
 
 </body>
