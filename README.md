@@ -62,8 +62,4 @@ Tom Chen's Repository for IDM 221 Project
                 - December 2023: San Francisco
             - Philadelphia Diary 
             - New York Diary 
-
         - Transit Diagram Designs 
-            - Philadelphia Metro Area Rail Map 
-            - Washington-Baltimore Metro Area Rail Map 
-            - New York Metro Area Commuter Rail Map 
