@@ -1,7 +1,6 @@
 # Directories 
 
-/private_media
-/planned_pages
+/private-media
 
 # Media files
 *.png

@@ -7,11 +7,12 @@ Tom Chen's Repository for IDM 221 Project
 - Home 
     - Project Gallery 
     - Blog 
-        - Related Coursework 
+        - Coursework 
         - Photography
         - Other Designs 
-    - Resume 
-    - Contact Information 
+    - Information
+        - Resume 
+        - Contact Information 
 
 ## Planned Goals 
 
@@ -19,37 +20,28 @@ Tom Chen's Repository for IDM 221 Project
 
 - Home 
     - Project Gallery 
-        - SEPTA Website Redesign
+        - SEPTA Website Remake
         - Amtrak Mobile App Redesign 
     - Blog 
-        - Related Coursework 
-            - VSST-108: Design for Media I: Black & White 
-                - Film Analysis: 2001: A Space Odyssey 
-            - VSST-109: Design for Media II: Color Theory 
+        - Coursework 
+            - Design for Media 
+                - Film Analysis: 2001: A Space Odyssey  
                 - Film Analysis: Under the Sun 
-            - PHTO-110: Introduction to Photography: Black & White 
-            - UNIV-A101 
-                - Book Review: Don't Make Me Think 
-    - Resume 
-        - "Download" button 
-        - Resume display 
-    - Contact Information 
-        - Phone number 
-        - School email
-        - LinkedIn 
-        - GitHub 
-        - Discord 
-        - Instagram 
+            - Black & White Photography
+            - Book Review
+                - Don't Make Me Think 
+    - Information
+        - Resume 
+        - Contact Information 
 
 ### Phase 2: Winter Break 
 
 - Home 
     - Project Gallery 
         - Projects from PROD-215: Design Thinking 
-        - Monopoly 4 Text-based Game in Python 
     - Blog 
         - Related Course Work 
-            - VSST-110: Introductory Drawing 
+            - Drawing 
                 - Pencil Drawing 
                 - Charcoal Drawing  
         - Photography
@@ -62,4 +54,3 @@ Tom Chen's Repository for IDM 221 Project
                 - December 2023: San Francisco
             - Philadelphia Diary 
             - New York Diary 
-        - Transit Diagram Designs 
