@@ -2,51 +2,50 @@
     box-sizing: border-box;
 }
 
-/* 
-I use Frutiger and Helvetica Neue in this website. 
-Frutiger will be used as titles only. 
-*/
-
 @font-face {
     font-family: 'frutiger';
-    src: url(/public_media/other_files/typefaces/Frutiger.woff2) 
+    src: url(/css/typefaces/frutiger.woff2) 
         format('woff2');
-    font-weight: bold;
+    font-weight: 700;
     font-style: normal;
     font-display: fallback;
 }
 
 @font-face {
     font-family: 'helvetica-neue';
-    src: url(/public_media/other_files/typefaces/HelveticaNeue.ttf) 
+    src: url(/css/typefaces/helvetica-neue.ttf) 
         format('truetype');
-    font-weight: normal, medium, bold;
-    font-style: normal;
+    font-weight: 400, 500, 700;
+    font-style: normal, italic;
     font-display: fallback;
 }
 
 :root {
-    --color-background: #fafafa;
-    --color-regular: #1c1c1c; 
-    --emphasized-white: #fff;
-    --emphasized-black: #000; 
 
-    --green: #009a01;
-    --teal: #0e6027;
-    --red-violet: #d1009a;
-    --red-orange: #ff6600;
+    --white: #fff;
+    --black: #000;
+    --gray-1: #8e8e93;
+    --gray-2: #c7c7cc;
 
     --font-regular: HelveticaNeue, Helvetica, sans-serif; 
-    --font-emphasized: 'frutiger', var(--font-regular);
+    --font-header: 'frutiger', var(--font-regular);
+
+    --width-0: 100vw;
+    --width-1: var(--width-0)-2rem; 
+    --width-2: var(--width-1)-2rem; 
+    --width-3: var(--width-2)-2rem; 
+
+    --height-header: 4rem; 
+    --height-1: var(--width-1)*2/3; 
+
+    --gap-1: 0.5rem; 
+    --gap-2: 1rem; 
+    --gap-3: 1.5rem;
+    --gap-4: 2rem;
 
     --border-radius: 0.75rem;
-    --button-side: 2.5rem; 
-    --gap-small: 0.5rem; 
-    --gap-medium: 1rem;
-    --gap-large: 2rem;
-    --header-height: 4rem;
-    --content-max-width: calc(100vw-2rem); 
-    --tile-height: 56.25vw;
+    --button-side: 2.5rem;
+
 }
 
 a, p {
@@ -57,9 +56,9 @@ a, p {
     text-wrap: pretty; 
 }
 
-h1 {
+div.subheader > h1 {
     font-size: 2rem;
-    font-family: var(--font-emphasized);
+    font-family: var(--font-header);
     
 }
 
@@ -80,15 +79,20 @@ p.header {
     line-height: var(--button-side);
 }
 
+/* introduction */
+
 div.introduction {
-    background-color: var(--green);
+    background-color: var(--white);
     border-radius: var(--border-radius);
-    padding: var(--gap-medium);
-    margin: var(--gap-medium);
+    width: var(--width-1);
+    padding: var(--gap-2) 0;
+    margin: 0 var(--gap-2);
+    outline-width: 0.25rem;
+    outline-color: var(--black);
 }
 
 div.introduction > p {
-    color: var(--emphasized-white);
+    color: var(--black);
     margin: var(--gap-small) 0;
     text-align: center;
 }
@@ -98,12 +102,12 @@ div.introduction > p.name {
     font-weight: bold;
 }
 
-div.introduction > p.primary {
+div.introduction > p.major {
     font-size: 1.5rem;
     font-weight: bold;
 }
 
-div.introduction >p.secondary {
+div.introduction > p.others {
     font-size: 1.25rem;
     font-weight: medium;
 }
@@ -128,3 +132,4 @@ footer > div.button > a {
     margin: var(--gap-medium) 0;
     border-radius: var(--border-radius);
 }
+

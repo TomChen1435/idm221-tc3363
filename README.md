@@ -6,13 +6,54 @@ Tom Chen's Repository for IDM 221 Project
 
 - Home 
     - Project Gallery 
+        - Projects
     - Blog 
         - Coursework 
+            - Photography for Class
+            - Book Review
+            - Film Analysis
         - Photography
         - Other Designs 
     - Information
         - Resume 
         - Contact Information 
+
+## Page Sturcture 
+
+- Header 
+    - Title 
+    - Menu Button
+- Subheader
+    - Title  
+- Main
+    - Projects
+        - Title H1
+        - Section
+            - Section Title H2 
+            - Image 
+            - Paragraph
+    - Writings
+        - Title H1 w/Link to the Original Work
+        - Image
+        - Section
+            - Section Title H2
+            - Unordered List `ul.secondary`
+            - Paragraph
+    - Photographs
+        - Title H1
+        - Paragraph
+        - Section
+            - Image
+            - Photograph Title H3
+- Footer
+    - Header `div#bottom`
+    - Buttons for L1 Pages
+
+`section` will have 4 elements: 
+- Section Title `h2`
+- Photograph Title `h3`
+- Image
+- `ul.secondary`
 
 ## Planned Goals 
 
@@ -24,9 +65,9 @@ Tom Chen's Repository for IDM 221 Project
         - Amtrak Mobile App Redesign 
     - Blog 
         - Coursework 
-            - Design for Media 
-                - Film Analysis: 2001: A Space Odyssey  
-                - Film Analysis: Under the Sun 
+            - Film Analysis 
+                - 2001: A Space Odyssey  
+                - Under the Sun 
             - Black & White Photography
             - Book Review
                 - Don't Make Me Think 
@@ -34,16 +75,16 @@ Tom Chen's Repository for IDM 221 Project
         - Resume 
         - Contact Information 
 
-### Phase 2: Winter Break 
+### Phase 2 
 
 - Home 
     - Project Gallery 
-        - Projects from PROD-215: Design Thinking 
+        - Projects from VSST Classes
+        - Projects from PROD-215 
     - Blog 
-        - Related Course Work 
-            - Drawing 
-                - Pencil Drawing 
-                - Charcoal Drawing  
+        - Coursework 
+            - Film Analysis
+                - Sin City
         - Photography
             - Travel Diary 
                 - December 2024: San Diego 
@@ -52,5 +93,32 @@ Tom Chen's Repository for IDM 221 Project
                 - June 2024: Chicago 
                 - March 2024: Ottawa 
                 - December 2023: San Francisco
-            - Philadelphia Diary 
+            - Philadelphia Diary
+                - 240626: Manayunk
+                - 240615: Peace Valley Park
+                - 240519: East Passyunk
+                - 240420: FDR Park
+                - 240414: Center City
+                - 240407: Penn's Landing
+                - 230825: Eastern State Penitentiary
+                - 230811: Magic Garden
             - New York Diary 
+                - 241129: The High Line
+                - 240912: River Front Park
+                - 240623: Jones Beach
+                - 231124: Coney Island
+                - 231124: NYTM
+                - 231123: LaGuardia Airport
+
+### Phase 3
+
+- Home 
+    - Project Gallery 
+        - Projects from VSST Classes
+        - Projects from PROD-215 
+    - Blog 
+        - Coursework 
+            - Drawing 
+                - Pencil Drawing 
+                - Charcoal Drawing 
+ 
