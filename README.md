@@ -44,14 +44,14 @@ Tom Chen's Repository for IDM 221 Project
         - Paragraph
         - Section
             - Image
-            - Photograph Title H3
+            - Photograph Title `p`
 - Footer
     - Header `div#bottom`
     - Buttons for L1 Pages
 
 `section` will have 4 elements: 
 - Section Title `h2`
-- Photograph Title `h3`
+- Photograph Title `p`
 - Image
 - `ul.secondary`
 

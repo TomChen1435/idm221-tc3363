@@ -1,0 +1,185 @@
+* {
+    box-sizing: border-box;
+}
+
+@font-face {
+    font-family: 'frutiger';
+    src: url(/css/typefaces/frutiger.woff2) 
+        format('woff2');
+    font-weight: 700;
+    font-style: normal;
+    font-display: fallback;
+}
+
+@font-face {
+    font-family: 'helvetica-neue';
+    src: url(/css/typefaces/helvetica-neue.ttf) 
+        format('truetype');
+    font-weight: 400, 500, 700;
+    font-style: normal, italic;
+    font-display: fallback;
+}
+
+:root {
+
+    --white: #fff;
+    --black: #000;
+    --gray-1: #8e8e93;
+    --gray-2: #c7c7cc;
+
+    --orange: #ff9500;
+    --yellow: #fc0;
+    --green: #34c759;
+    --mint: #00c7be;
+
+    --blue: #007aff;
+    --indigo: #5856d6;
+    --violet: #af52de;
+    --pink: #ff2d55;
+
+    --helvetica-neue: 'helvetica-neue', Helvetica, sans-serif; 
+    --frutiger: 'frutiger', var(--helvetica-neue);
+
+    --width-0: 100vw;
+    --width-1: calc(var(--width-0) - 2rem); 
+    --width-2: calc(var(--width-1) - 2rem); 
+    --width-3: calc(var(--width-2) - 2rem); 
+
+    --height-header: 4rem; 
+    --height-1: var(--width-1) * 2 / 3; 
+    --border-radius: 0.75rem;
+    --icon-side: 2.5rem;
+
+}
+
+a, p {
+    font-size: 1rem;
+    font-family: var(--helvetica-neue);
+    font-weight: normal;
+    text-decoration: none;
+    text-wrap: pretty; 
+}
+
+p.subheader {
+    font-size: 2rem;
+    font-family: var(--frutiger);
+    
+}
+
+a.regular:link {color: var(--blue);}
+a.regular:visited {color: var(--violet);}
+a.regular:hover {color: var(--indigo);}
+a.regular:active {color: var(--pink);}
+
+/* header */
+
+header {
+    height: 4rem;
+    background-color: var(--black);
+    padding: 0.75rem var(--gap-medium);
+}
+
+header > p {
+    color: var(--white);
+    font-size: 1.5rem;
+    line-height: var(--icon-side);
+    position: relative;
+    bottom: 0.75rem;
+    left: 1rem;
+}
+
+header > a {
+    height: var(--icon-side);
+    width: var(--icon-side);
+    position: relative;
+    bottom: 0.75rem;
+    right: 1rem;
+
+}
+
+/* introduction */
+
+div.introduction {
+    align-content: center;
+    background-color: var(--black);
+    border-radius: var(--border-radius);
+    margin: 1.5rem 1rem;
+    outline-width: 0.25rem;
+    outline-color: var(--black);
+}
+
+div.introduction > p {
+    align-content: center;
+    color: var(--white);
+    font-size: 1.25rem;
+    font-weight: 500;
+    height: 2rem;
+    margin: 0;
+    padding: 4px auto;
+    text-align: center;
+}
+
+div.introduction > p.name {
+    align-content: center;
+    color: var(--black);
+    background-color: var(--orange);
+    font-size: 2rem;
+    font-weight: 700;
+    height: 3rem;
+}
+
+div.introduction > p.major {
+    background-color: var(--mint);
+    border-radius: 0 0 8px 8px;
+    color: var(--black);
+    font-size: 1.5rem;
+    font-weight: 700;
+    height: 4.625rem;
+    padding: 4px auto 12px;
+    
+}
+
+div.introduction > p.school {
+    background-color: var(--yellow);
+    color: var(--black);
+}
+
+div.introduction > p.location {
+    background-color: var(--green);
+    color: var(--black);
+}
+
+div.introduction:first-child {
+    padding: 12px auto 4px;
+}
+
+/* footer */
+
+footer {
+    background-color: var(--teal); 
+    padding: var(--gap-medium);
+}
+
+footer > div.button {
+    height: var(--icon-side);
+    width: var(--content-max-width);
+}
+
+footer > div.button > a {
+    font-size: 1.25rem;
+    font-weight: medium;
+    text-align: center;
+    color: var(--emphasized-white);
+    background-color: var(--red-orange);
+    padding: 0.5rem;
+    margin: var(--gap-medium) 0;
+    border-radius: var(--border-radius);
+}
+
+a.button {
+    color: var(--black);
+    font-size: 1.25rem;
+    font-weight: 500;
+    text-align: center;
+    border-radius: var(--border-radius);
+}
