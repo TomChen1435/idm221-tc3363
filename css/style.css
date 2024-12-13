@@ -90,7 +90,6 @@ header > a {
     position: relative;
     bottom: 0.75rem;
     right: 1rem;
-
 }
 
 /* introduction */
@@ -153,10 +152,6 @@ div.introduction:first-child {
 
 footer {
     background-color: var(--black); 
-}
-
-div.bottom {
-
 }
 
 div.bottom > p {
