@@ -40,13 +40,9 @@
     --helvetica-neue: 'helvetica-neue', Helvetica, sans-serif; 
     --frutiger: 'frutiger', var(--helvetica-neue);
 
-    --width-0: 100vw;
-    --width-1: calc(var(--width-0) - 2rem); 
-    --width-2: calc(var(--width-1) - 2rem); 
-    --width-3: calc(var(--width-2) - 2rem); 
+    --gap: 1rem; 
 
     --height-header: 4rem; 
-    --height-1: var(--width-1) * 2 / 3; 
     --border-radius: 0.75rem;
     --icon-side: 2.5rem;
 
@@ -156,30 +152,34 @@ div.introduction:first-child {
 /* footer */
 
 footer {
-    background-color: var(--teal); 
-    padding: var(--gap-medium);
+    background-color: var(--black); 
 }
 
-footer > div.button {
+div.buttons:nth-child(1) {
+    background-color: var(--orange);
+}
+
+div.buttons:nth-child(2) {
+    background-color: var(--yellow);
+}
+
+div.buttons:nth-child(3) {
+    background-color: var(--green);
+}
+
+div.buttons:nth-child(4) {
+    background-color: var(--mint);
+}
+
+div.button {
     height: var(--icon-side);
-    width: var(--content-max-width);
-}
-
-footer > div.button > a {
-    font-size: 1.25rem;
-    font-weight: medium;
-    text-align: center;
-    color: var(--emphasized-white);
-    background-color: var(--red-orange);
-    padding: 0.5rem;
-    margin: var(--gap-medium) 0;
+    padding: 0.5rem 1rem;
     border-radius: var(--border-radius);
 }
 
-a.button {
-    color: var(--black);
+div.button > a {
     font-size: 1.25rem;
     font-weight: 500;
     text-align: center;
-    border-radius: var(--border-radius);
+    color: var(--black);
 }
